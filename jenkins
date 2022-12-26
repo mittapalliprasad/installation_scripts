@@ -26,5 +26,6 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 #sudo service jenkins status
 
+user : admin
 
-#34.232.26.121
+pass : admin
